@@ -1,0 +1,1 @@
+console.log('testing from inside of the events folder');
